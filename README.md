@@ -34,17 +34,3 @@ Designed and implemented an interactive Simon memory game on an Altera DE0 FPGA 
 3. Select `the_real_final_project.qar`
 4. Compile the project and program the DE0 board using USB-Blaster
 
----
-
-## 📸 Preview
-*Coming soon – image or schematic of the system*
-
----
-
-## 🧾 License
-This project is for academic and educational use.
-
----
-
-אם אתה רוצה שאעלה גם preview schematic או שאראה לך איך להכין GIF קצר של המשחק – אני פה.  
-רוצה שאשמור את זה כקובץ `README.md` מוכן להעלאה?
